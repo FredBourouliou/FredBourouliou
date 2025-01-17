@@ -21,10 +21,6 @@ Welcome to Frédéric Bourouliou's GitHub Profile README
     <a href="https://www.linkedin.com/in/frederic-bourouliou-7160312b7/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Frederic%20Bourouliou-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <!-- Adding Portfolio Badge -->
-    <a href="https://fredbourouliou.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Portfolio Badge" />
-    </a>
   </p>
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
@@ -34,7 +30,7 @@ Welcome to Frédéric Bourouliou's GitHub Profile README
 
 ## 🎯 Current Focus
 
-- 🔭 Currently working on: **Simple Shell Implementation in C**
+- 🔭 Recently completed: **Simple Shell Implementation in C**
 - 🌱 Learning: **Advanced Python, System Programming in C**
 - 👯 Looking to collaborate on: **Open Source Projects in Python or C**
 - 🎓 Studying at: **Holberton School**
@@ -111,20 +107,6 @@ A custom implementation of a Unix shell in C, demonstrating system programming c
 - [Repository](https://github.com/FredBourouliou/holbertonschool-simple_shell)
 - **Technologies:** C, Unix System Calls
 - **Key Features:** Command execution, PATH handling, built-in commands
-
-### [Other Notable Project]
-Brief description of another significant project showcasing different skills.
-- [Repository Link]
-- **Technologies Used**
-- **Key Features/Achievements**
-
----
-
-## 📚 Latest Blog Posts
-<!-- Will be automatically updated by GitHub Actions -->
-- [My Journey from Teaching to Software Engineering](link-to-blog)
-- [Understanding Shell Implementation in C](link-to-blog)
-- [Best Practices in Python Programming](link-to-blog)
 
 ---
 
