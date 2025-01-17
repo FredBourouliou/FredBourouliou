@@ -76,7 +76,7 @@ I am continuously refining my skills through various academic and personal proje
 
 <p align="center">
   <img
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericBourouliou&layout=compact&theme=dark"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBourouliou&layout=compact&theme=dark"
        alt="Frédéric's Top Languages"
        height="180px"
   />
@@ -84,7 +84,7 @@ I am continuously refining my skills through various academic and personal proje
 
 <p align="center">
   <img
-       src="http://github-readme-streak-stats.herokuapp.com?user=FredericBourouliou&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+       src="http://github-readme-streak-stats.herokuapp.com?user=FredBourouliou&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
        alt="GitHub Streak"
        height="180px"
   />
@@ -92,7 +92,7 @@ I am continuously refining my skills through various academic and personal proje
 
 <p align="center">
   <img
-       src="https://github-readme-activity-graph.cyclic.app/graph?username=FredericBourouliou&theme=react-dark&hide_border=true"
+       src="https://github-readme-activity-graph.cyclic.app/graph?username=FredBourouliou&theme=react-dark&hide_border=true"
        alt="Frédéric's Activity Graph"
   />
 </p>
