@@ -84,8 +84,8 @@ I am continuously refining my skills through various academic and personal proje
 
 <p align="center">
   <img
-       src="http://github-readme-streak-stats.herokuapp.com?user=FredBourouliou&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-       alt="GitHub Streak"
+       src="https://github-readme-streak-stats.herokuapp.com?user=FredBourouliou&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+       alt="FredBourouliou's GitHub Streak"
        height="180px"
   />
 </p>
@@ -93,7 +93,7 @@ I am continuously refining my skills through various academic and personal proje
 <p align="center">
   <img
        src="https://github-readme-activity-graph.cyclic.app/graph?username=FredBourouliou&theme=react-dark&hide_border=true"
-       alt="Frédéric's Activity Graph"
+       alt="FredBourouliou's Activity Graph"
   />
 </p>
 
