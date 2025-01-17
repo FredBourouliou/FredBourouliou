@@ -49,6 +49,28 @@ After a successful transition from the world of teaching to software engineering
 
 ## 🛠️ Technical Skills
 
+### Browsers
+<p>
+  <img src="https://img.shields.io/badge/Edge-0078D7?style=flat&logo=Microsoft-edge&logoColor=white" alt="Edge Badge" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white" alt="Firefox Badge" />
+  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white" alt="Chrome Badge" />
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=flat&logo=Tor-Browser&logoColor=white" alt="Tor Badge" />
+</p>
+
+### Education Platforms
+<p>
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=Coursera&logoColor=white" alt="Coursera Badge" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge" />
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white" alt="Udemy Badge" />
+</p>
+
+### IDEs/Editors
+<p>
+  <img src="https://img.shields.io/badge/Emacs-7F5AB6?style=flat&logo=gnu-emacs&logoColor=white" alt="Emacs Badge" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" alt="Vim Badge" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
+</p>
+
 ### Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white" alt="C Badge" />
@@ -60,7 +82,6 @@ After a successful transition from the world of teaching to software engineering
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
 </p>
 
 ### Operating Systems
@@ -123,11 +144,16 @@ A custom implementation of a Unix shell in C, demonstrating system programming c
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
-- **Email:** [bourouliou@gmail.com](mailto:bourouliou@gmail.com)  
-- **Twitter:** [@FBourouliou](https://twitter.com/FBourouliou)  
-- **LinkedIn:** [frederic-bourouliou](https://www.linkedin.com/in/frederic-bourouliou/)
+<p align="left">
+  <a href="mailto:bourouliou@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://twitter.com/FBourouliou">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/frederic-bourouliou-7160312b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
-  <em>Thank you for visiting. Feel free to explore my repositories and reach out if you'd like to connect!</em>
-</div>
