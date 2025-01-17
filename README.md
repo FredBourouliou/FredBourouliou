@@ -68,7 +68,7 @@ I am continuously refining my skills through various academic and personal proje
 
 <p align="center">
   <img
-       src="https://github-readme-stats.vercel.app/api?username=FredericBourouliou&show_icons=true&theme=dark"
+       src="https://github-readme-stats.vercel.app/api?username=FredBourouliou&show_icons=true&theme=dark"
        alt="Frédéric's GitHub Stats"
        height="180px"
   />
@@ -104,7 +104,7 @@ I am continuously refining my skills through various academic and personal proje
 If you’d like to discuss potential collaborations, academic projects, or simply talk about coding and technology, feel free to reach out!
 
 - **Email:** [bourouliou@gmail.com](mailto:bourouliou@gmail.com)  
-- **Twitter:** [@FredBourouliou](https://twitter.com/FredBourouliou)  
+- **Twitter:** [@FredBourouliou](https://twitter.com/FBourouliou)  
 - **LinkedIn:** [frederic-bourouliou-7160312b7](https://www.linkedin.com/in/frederic-bourouliou-7160312b7/)
 
 <div align="center">
