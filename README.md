@@ -104,7 +104,7 @@ I am continuously refining my skills through various academic and personal proje
 If you’d like to discuss potential collaborations, academic projects, or simply talk about coding and technology, feel free to reach out!
 
 - **Email:** [bourouliou@gmail.com](mailto:bourouliou@gmail.com)  
-- **Twitter:** [@FredBourouliou](https://twitter.com/FBourouliou)  
+- **Twitter:** [@FBourouliou](https://twitter.com/FBourouliou)  
 - **LinkedIn:** [frederic-bourouliou-7160312b7](https://www.linkedin.com/in/frederic-bourouliou-7160312b7/)
 
 <div align="center">
