@@ -18,7 +18,7 @@ Welcome to Frédéric Bourouliou's GitHub Profile README
     <a href="https://twitter.com/FBourouliou" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-@FBourouliou-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" />
     </a>
-    <a href="https://www.linkedin.com/in/frederic-bourouliou-7160312b7/" target="_blank">
+    <a href="https://www.linkedin.com/in/frederic-bourouliou/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Frederic%20Bourouliou-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
   </p>
@@ -125,7 +125,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 - **Email:** [bourouliou@gmail.com](mailto:bourouliou@gmail.com)  
 - **Twitter:** [@FBourouliou](https://twitter.com/FBourouliou)  
-- **LinkedIn:** [frederic-bourouliou-7160312b7](https://www.linkedin.com/in/frederic-bourouliou-7160312b7/)
+- **LinkedIn:** [frederic-bourouliou](https://www.linkedin.com/in/frederic-bourouliou/)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
