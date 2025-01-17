@@ -17,7 +17,7 @@ Welcome to Frédéric Bourouliou's GitHub Profile README
       <img src="https://img.shields.io/badge/Email-Me-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email Badge" />
     </a>
     <a href="https://twitter.com/FBourouliou" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-@FredBourouliou-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" />
+      <img src="https://img.shields.io/badge/Twitter-@FBourouliou-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" />
     </a>
     <a href="https://www.linkedin.com/in/frederic-bourouliou-7160312b7/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Frederic%20Bourouliou-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
