@@ -6,7 +6,7 @@ Welcome to Frédéric Bourouliou's GitHub Profile README
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
   
   <!-- Title & Tagline -->
-  <h1>Hi, I'm Frédéric Bourouliou</h1>
+  <h1>Hi, I'm Frederic Bourouliou</h1>
   <h3>Software Engineering Student</h3>
   <em>Adaptable, technology-driven, and dedicated to empowering solutions through code.</em>
   
