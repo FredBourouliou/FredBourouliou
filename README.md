@@ -16,7 +16,7 @@ Welcome to Frédéric Bourouliou's GitHub Profile README
     <a href="mailto:bourouliou@gmail.com">
       <img src="https://img.shields.io/badge/Email-Me-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email Badge" />
     </a>
-    <a href="https://twitter.com/FredBourouliou" target="_blank">
+    <a href="https://twitter.com/FBourouliou" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-@FredBourouliou-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" />
     </a>
     <a href="https://www.linkedin.com/in/frederic-bourouliou-7160312b7/" target="_blank">
@@ -53,9 +53,9 @@ Here are some of the technologies and tools I use regularly:
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white" alt="C Badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows Badge" />
   <img src="https://img.shields.io/badge/Mac%20OS-000000?style=flat&logo=apple&logoColor=white" alt="Mac OS Badge" />
 </p>
