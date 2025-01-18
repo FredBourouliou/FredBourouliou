@@ -49,11 +49,13 @@ After a successful transition from the world of teaching to software engineering
 
 ## 🛠️ Technical Skills
 
-### Languages & Frameworks
+
+### Development Environment
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C Badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge" />
+  <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Edge Badge" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox Badge" />
+  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome Badge" />
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" alt="Tor Badge" />
 </p>
 
 ### Development Tools & Version Control
@@ -69,19 +71,11 @@ After a successful transition from the world of teaching to software engineering
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
 </p>
 
-### Operating Systems
+### Languages & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" />
-  <img src="https://img.shields.io/badge/Mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS Badge" />
-</p>
-
-### Development Environment
-<p>
-  <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Edge Badge" />
-  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox Badge" />
-  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome Badge" />
-  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" alt="Tor Badge" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C Badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge" />
 </p>
 
 ### Learning Resources
@@ -89,6 +83,13 @@ After a successful transition from the world of teaching to software engineering
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge" />
   <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy Badge" />
+</p>
+
+### Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" />
+  <img src="https://img.shields.io/badge/Mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS Badge" />
 </p>
 
 ---
