@@ -140,6 +140,9 @@ A custom implementation of a Unix shell in C, demonstrating system programming c
     <img src="https://img.shields.io/badge/IBM-Introduction%20to%20Open%20Source-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certificate Badge"/>
   </a>
 </p>
+
+---
+
 ## Beyond Coding
 
 - ♟️ **Game of Go** – I love this ancient board game for its strategic depth.  
