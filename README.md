@@ -136,7 +136,7 @@ A custom implementation of a Unix shell in C, demonstrating system programming c
 ## 🎓 Certifications
 
 <p>
-  <a href="./assets/IBM_Certificate.pdf">
+  <a href="./assets/IBM OS0101EN Certificate _ IBM SkillsBuild.pdf">
     <img src="https://img.shields.io/badge/IBM-Introduction%20to%20Open%20Source-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certificate Badge"/>
   </a>
 </p>
