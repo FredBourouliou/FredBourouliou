@@ -172,6 +172,9 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
   <a href="https://www.linkedin.com/in/frederic-bourouliou/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+    <a href="https://skills.yourlearning.ibm.com/certificate/share/a72a2336bdewogICJsZWFybmVyQ05VTSIgOiAiMzg5NDYyMVJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIklTRy1TTEE3MDAzIgp9ae52b16ebd-10">
+    <img src="https://img.shields.io/badge/IBM-Detecting%20SQL%20Injection%20Attacks-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Guardium Certificate Badge"/>
+  </a>
 </p>
 
 <div align="center">
