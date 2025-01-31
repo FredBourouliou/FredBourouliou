@@ -142,6 +142,9 @@ A custom implementation of a Unix shell in C, demonstrating system programming c
   <a href="https://www.credly.com/badges/465c45aa-368b-4df4-97b7-3234bdc52704/public_url">
     <img src="https://img.shields.io/badge/IBM-Agile%20Explorer-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Agile Explorer Badge"/>
   </a>
+   <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/647fc33541264ad3bc208606dddb9e53">
+    <img src="https://img.shields.io/badge/IBM-SQL%20and%20Relational%20Databases%20101-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SQL Certificate Badge"/>
+  </a>
 </p>
 
 ---
