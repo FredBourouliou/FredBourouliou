@@ -1,182 +1,79 @@
-<!--
-Welcome to Frédéric Bourouliou's GitHub Profile README
--->
+<!-- Profile README -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
-  
-  <!-- Title & Tagline -->
-  <h1>Hi, I'm Frederic Bourouliou</h1>
-  <h3>Software Engineering Student</h3>
-  <em>Adaptable, technology-driven, and dedicated to empowering solutions through code.</em>
-  
-  <!-- Social & Contact Badges -->
+  <h1>👋 Hi, I'm Frédéric Bourouliou</h1>
+  <h3>Software Engineering Student @ Holberton School</h3>
+  <em>From education to software engineering — building clean, testable apps with a focus on UX and reliability.</em>
+
+  <!-- Contact -->
   <p>
     <a href="mailto:bourouliou@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://twitter.com/FBourouliou" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-@FBourouliou-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+    <a href="https://www.linkedin.com/in/frederic-bourouliou/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/frederic-bourouliou/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Frederic%20Bourouliou-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <a href="https://twitter.com/FBourouliou">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
   </p>
-  
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔭 Recently completed: **Simple Shell Implementation in C**
-- 🌱 Learning: **Advanced Python, System Programming in C**
-- 👯 Looking to collaborate on: **Open Source Projects in Python or C**
-- 🎓 Studying at: **Holberton School**
+- 🌱 Learning: **Advanced Python, System Programming in C, SwiftUI**
+- 🔭 Projects: [Interactive Pokédex](https://github.com/FredBourouliou/interactive-pokedex), [Cyber Calculette](https://github.com/FredBourouliou/cyber_calculette), [Booky Portfolio (iOS)](https://github.com/FredBourouliou/Booky-Portfolio)
+- 🎓 Studying at **Holberton School Dijon**
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-After a successful transition from the world of teaching to software engineering, I bring together pedagogical expertise, adaptability, and an ever-growing passion for technology. As a **Software Engineering Student**, I strive to combine creativity and rigor in tackling new challenges, aiming to craft effective and meaningful solutions.
+I transitioned from a career in teaching to **software engineering**, combining pedagogy, adaptability, and a strong appetite for technology.  
+I enjoy creating **practical, well-structured solutions** — from C system programs to modern iOS and TypeScript applications.
 
-- **Location:** Dijon, France  
-- **Background:** Former educator transitioning into software development  
-- **Interests:** Exploring emerging tech innovations and continuous learning  
-
----
-
-## 🛠️ Technical Skills
-
-
-### Development Environment
-<p>
-  <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Edge Badge" />
-  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox Badge" />
-  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome Badge" />
-</p>
-
-### Development Tools & Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-</p>
-
-### IDEs/Editors
-<p>
-  <img src="https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="Emacs Badge" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim Badge" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
-</p>
-
-### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C Badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge" />
-</p>
-
-### Learning Resources
-<p>
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge" />
-  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy Badge" />
-</p>
-
-### Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" />
-  <img src="https://img.shields.io/badge/Mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS Badge" />
-</p>
+- 📍 Dijon, France  
+- 🧩 Background: Former educator  
+- 📚 Interests: Emerging tech, continuous learning, mentoring
 
 ---
 
-## 📈 GitHub Metrics
+## 🛠️ Skills
 
-<p align="center">
-  <img
-       src="https://github-readme-stats.vercel.app/api?username=FredBourouliou&show_icons=true&theme=radical&hide_border=true&count_private=true"
-       alt="Frédéric's GitHub Stats"
-       height="180px"
-  />
-</p>
-
-<p align="center">
-  <img
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBourouliou&layout=compact&theme=radical&hide_border=true"
-       alt="Frédéric's Top Languages"
-       height="180px"
-  />
-</p>
+**Languages:** C, Python, Bash, TypeScript, Swift  
+**Frameworks/Tools:** React, SwiftUI, Node.js, Git/GitHub  
+**Environments:** Linux, macOS, Windows
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects
 
-### Simple Shell
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-A custom implementation of a Unix shell in C, demonstrating system programming concepts and process management.
-- [Repository](https://github.com/FredBourouliou/holbertonschool-simple_shell)
-- **Key Features:** 
-  - Command execution and PATH handling
-  - Built-in commands implementation
-  - Process management and system calls
-  - Error handling and memory management
-
+- **[Booky Portfolio](https://github.com/FredBourouliou/Booky-Portfolio)** — iOS app (SwiftUI) with OCR, AI, and voice features.
+- **[Formation Search Portal](https://github.com/FredBourouliou/formation-search-portal-)** — Training portal built with **PHP (Symfony)** and **React**, featuring dynamic search, session management, and modern frontend integration.  
+- **[Interactive Pokédex](https://github.com/FredBourouliou/interactive-pokedex)** — React + TypeScript web app for exploring and building Pokémon teams.  
+- **[Cyber Calculette](https://github.com/FredBourouliou/cyber_calculette)** — A modern web calculator with a playful UI.   
+  
 ---
 
 ## 🎓 Certifications
 
-<p>
-   <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/a4eef3e7ba6d4e1d892afa1de925a452">
-    <img src="https://img.shields.io/badge/IBM-Introduction%20to%20Open%20Source-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certificate Badge"/>
-  </a>
-  <a href="https://www.credly.com/badges/465c45aa-368b-4df4-97b7-3234bdc52704/public_url">
-    <img src="https://img.shields.io/badge/IBM-Agile%20Explorer-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Agile Explorer Badge"/>
-  </a>
-   <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/647fc33541264ad3bc208606dddb9e53">
-    <img src="https://img.shields.io/badge/IBM-SQL%20and%20Relational%20Databases%20101-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SQL Certificate Badge"/>
-  </a>
-    <a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/4d4dd6f9c07e71f99229e7b3b31a2ee802446b38/certificates-trimester-2/certificate-sqli-guardium.pdf">
-    <img src="https://img.shields.io/badge/IBM-Detecting%20SQL%20Injection%20Attacks-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Guardium Certificate Badge"/>
-  </a>
-</p>
+- IBM – *Introduction to Open Source*  
+- IBM – *Agile Explorer*  
+- IBM – *SQL & Relational Databases 101*  
+- IBM – *Detecting SQL Injection Attacks*  
 
 ---
 
-## Beyond Coding
+## 🌱 Beyond Coding
 
-- ♟️ **Game of Go** – I love this ancient board game for its strategic depth.  
-- 📚 **Reading Journey** - Books, articles, and anything that broadens my horizons.
-- 🎓 **Continuous Learning** – Always exploring new technologies and methodologies.
-- 🤝 **Mentoring** – Passionate about helping others learn and grow.
+- ♟️ **Go player** – inspired by strategic depth  
+- 📚 **Lifelong learner** – books, tech, and culture  
+- 🤝 **Mentor** – helping others grow through knowledge-sharing  
 
 ---
-
-## Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
-
-<p align="left">
-  <a href="mailto:bourouliou@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://twitter.com/FBourouliou">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/frederic-bourouliou/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
-  <em>Thank you for visiting. Feel free to explore my repositories and reach out if you'd like to connect!</em>
+  <em>Thanks for visiting! Check out my repositories and let’s connect.</em>
 </div>
