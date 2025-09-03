@@ -59,10 +59,13 @@ I enjoy creating **practical, well-structured solutions** — from C system prog
 
 ## 🎓 Certifications
 
-- IBM – *Introduction to Open Source*  
-- IBM – *Agile Explorer*  
-- IBM – *SQL & Relational Databases 101*  
-- IBM – *Detecting SQL Injection Attacks*  
+| Certification | Issuer | Proof |
+|---------------|--------|-------|
+| ![Badge](https://img.shields.io/badge/IBM-Introduction%20to%20Open%20Source-052FAD?style=flat&logo=ibm&logoColor=white) | IBM | [PDF](https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-oss.pdf) |
+| ![Badge](https://img.shields.io/badge/IBM-Agile%20Explorer-052FAD?style=flat&logo=ibm&logoColor=white) | IBM | [PDF](https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-agile.pdf) |
+| ![Badge](https://img.shields.io/badge/IBM-SQL%20%26%20Relational%20Databases%20101-052FAD?style=flat&logo=ibm&logoColor=white) | IBM | [PDF](https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/certificate-sql.pdf) |
+| ![Badge](https://img.shields.io/badge/IBM-Detecting%20SQL%20Injection%20Attacks-052FAD?style=flat&logo=ibm&logoColor=white) | IBM | [PDF](https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/certificate-sqli-guardium.pdf) |
+| ![Badge](https://img.shields.io/badge/IBM-Cloud%20Fundamentals-052FAD?style=flat&logo=ibm&logoColor=white) | IBM | [PDF](https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cloud.pdf) |
 
 ---
 
