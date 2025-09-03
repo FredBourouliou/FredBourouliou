@@ -23,8 +23,8 @@
 
 ## 🎯 Current Focus
 
-- 🌱 Learning: **Advanced Python, System Programming in C, SwiftUI**
-- 🔭 Projects: [Interactive Pokédex](https://github.com/FredBourouliou/interactive-pokedex), [Cyber Calculette](https://github.com/FredBourouliou/cyber_calculette), [Booky Portfolio (iOS)](https://github.com/FredBourouliou/Booky-Portfolio)
+- 🌱 Learning: **Advanced Python, React + TypeScript, SwiftUI**
+- 🔭 Projects: [Interactive Pokédex](https://github.com/FredBourouliou/interactive-pokedex), [Cyber Calculette](https://github.com/FredBourouliou/cyber_calculette), [Booky Portfolio (iOS)](https://github.com/FredBourouliou/Booky-Portfolio), [Formation Search Portal](https://github.com/FredBourouliou/formation-search-portal-)
 - 🎓 Studying at **Holberton School Dijon**
 
 ---
@@ -55,6 +55,32 @@ I enjoy creating **practical, well-structured solutions** — from C system prog
 - **[Interactive Pokédex](https://github.com/FredBourouliou/interactive-pokedex)** — React + TypeScript web app for exploring and building Pokémon teams.  
 - **[Cyber Calculette](https://github.com/FredBourouliou/cyber_calculette)** — A modern web calculator with a playful UI.   
   
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=FredBourouliou&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    height="160"
+    alt="GitHub Stats"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBourouliou&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+    height="160"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=FredBourouliou&theme=tokyonight&hide_border=true"
+    height="160"
+    alt="GitHub Streak"
+  />
+</p>
+
 ---
 
 ## 🎓 Certifications
