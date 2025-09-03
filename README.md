@@ -73,14 +73,6 @@ I enjoy creating **practical, well-structured solutions** — from C system prog
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=FredBourouliou&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="GitHub Streak"
-  />
-</p>
-
 ---
 
 ## 🎓 Certifications
