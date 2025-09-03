@@ -65,7 +65,6 @@ I enjoy creating **practical, well-structured solutions** — from C system prog
     height="160"
     alt="GitHub Stats"
   />
-  
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBourouliou&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
     height="160"
