@@ -53,7 +53,8 @@ I enjoy creating **practical, well-structured solutions** — from C system prog
 - **[Booky Portfolio](https://github.com/FredBourouliou/Booky-Portfolio)** — iOS app (SwiftUI) with OCR, AI, and voice features.
 - **[Formation Search Portal](https://github.com/FredBourouliou/formation-search-portal-)** — Training portal built with **PHP (Symfony)** and **React**, featuring dynamic search, session management, and modern frontend integration.  
 - **[Interactive Pokédex](https://github.com/FredBourouliou/interactive-pokedex)** — React + TypeScript web app for exploring and building Pokémon teams.  
-- **[Cyber Calculette](https://github.com/FredBourouliou/cyber_calculette)** — A modern web calculator with a playful UI.   
+- **[Cyber Calculette](https://github.com/FredBourouliou/cyber_calculette)** — A modern web calculator with a playful UI.
+- **[Geo-demo](https://github.com/FredBourouliou/geo-demo)** — A mini-ETL pipeline that loads cadastral shapefiles into PostgreSQL/PostGIS using Python (GeoPandas), with automated spatial queries to illustrate data integration workflows.
   
 ---
 
