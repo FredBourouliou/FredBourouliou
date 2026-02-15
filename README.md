@@ -65,23 +65,6 @@ Mon profil hybride me permet de :
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=FredBourouliou&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=tokyonight"
-    height="160"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBourouliou&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
-    height="160"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## 🎓 Certifications
 
 | Certification | Issuer | Proof |
