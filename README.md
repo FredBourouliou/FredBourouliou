@@ -34,7 +34,7 @@
 
 <br>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="22"></picture>&nbsp; En production
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="22">&nbsp; En production
 
 <table>
 <tr>
@@ -134,12 +134,11 @@ Plugin **Moodle** PHP de suivi de formations pour le GIP FTLV de Franche-Comté.
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="22">&nbsp; Stats &nbsp;<sub><sub>(temps réel)</sub></sub>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FredBourouliou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=480" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBourouliou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FredBourouliou&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FredBourouliou&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr" alt="Streak" />
+  <img src="https://raw.githubusercontent.com/FredBourouliou/FredBourouliou/output/github-metrics.svg" alt="Metrics" width="100%" />
 </p>
 
 #### Activity
@@ -147,14 +146,6 @@ Plugin **Moodle** PHP de suivi de formations pour le GIP FTLV de Franche-Comté.
 <a href="https://github.com/FredBourouliou">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FredBourouliou&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contributions%20sur%2031%20jours" alt="Activity graph" width="100%" />
 </a>
-
-#### Trophées
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FredBourouliou&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true&margin-w=8" alt="Trophy" />
-  </a>
-</p>
 
 #### Le serpent dévore mes contributions
 
@@ -229,7 +220,7 @@ App **React + TypeScript** explorant 1025+ Pokémon sur 9 générations — team
 
 Depuis fin 2025, **ingénieur pédagogique au GIP FTLV de Franche-Comté** — conception de formations Moodle, démarche Qualiopi, dispositifs immersifs XR/360°.
 
-En parallèle, je construis des **outils** : pipelines de génération de contenu pilotés par Claude API, automatisations Moodle via Playwright, plugins LMS, et un portfolio de sites web en production sur AWS.
+En parallèle, je construis des **outils** : pipelines de génération de contenu pilotés par Claude API, automatisations Moodle via Playwright, plugins LMS, et un portfolio de sites web.
 
 #### Certifications
 
@@ -251,13 +242,6 @@ En parallèle, je construis des **outils** : pipelines de génération de conten
 - <img src="https://github.githubassets.com/images/icons/emoji/unicode/265f.png" width="14"> &nbsp;Joueur de **Go** — pour la profondeur stratégique
 - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" width="14"> &nbsp;Apprenant permanent — livres, technologies, culture
 - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" width="14"> &nbsp;Transmission — 19 ans d'enseignement, c'est dans l'ADN
-
-<br>
-
-<!-- QUOTE DYNAMIQUE -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day" />
-</p>
 
 <br>
 
