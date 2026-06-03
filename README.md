@@ -222,12 +222,40 @@ Depuis fin 2025, **ingénieur pédagogique au GIP FTLV de Franche-Comté** — c
 
 En parallèle, je construis des **outils** : pipelines de génération de contenu pilotés par Claude API, automatisations Moodle via Playwright, plugins LMS, et un portfolio de sites web.
 
-#### Certifications
+#### Diplômes
+
+<table>
+<tr>
+<td valign="middle" width="60"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" width="42" /></td>
+<td valign="middle">
+
+**[Full Stack Web Development Specialization](assets/certificates/holberton-full-stack-2026.pdf)** &nbsp; <sub><kbd>2026</kbd></sub>
+<br>
+<sub>Holberton School Dijon — Year 2 · délivré par Florian Bucher, CEO</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="middle" width="60"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png" width="38" /></td>
+<td valign="middle">
+
+**[Foundations of Computer Science](assets/certificates/holberton-foundations-2025.pdf)** &nbsp; <sub><kbd>2025</kbd></sub>
+<br>
+<sub>Holberton School Dijon — Year 1</sub>
+
+</td>
+</tr>
+</table>
+
+#### Certifications — IBM SkillsBuild
 
 <p>
-<a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/certificate-sql.pdf"><img src="https://img.shields.io/badge/IBM-SQL%20%26%20Relational%20Databases%20101-052FAD?style=flat&logo=ibm&logoColor=white" /></a>
 <a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-agile.pdf"><img src="https://img.shields.io/badge/IBM-Agile%20Explorer-052FAD?style=flat&logo=ibm&logoColor=white" /></a>
 <a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-oss.pdf"><img src="https://img.shields.io/badge/IBM-Introduction%20to%20Open%20Source-052FAD?style=flat&logo=ibm&logoColor=white" /></a>
+<a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/certificate-sql.pdf"><img src="https://img.shields.io/badge/IBM-SQL%20%26%20Relational%20Databases%20101-052FAD?style=flat&logo=ibm&logoColor=white" /></a>
+<a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/certificate-sqli-guardium.pdf"><img src="https://img.shields.io/badge/IBM-Detecting%20SQL%20Injection%20with%20Guardium-052FAD?style=flat&logo=ibm&logoColor=white" /></a>
+<a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/certificate-cloud.pdf"><img src="https://img.shields.io/badge/IBM-Introduction%20to%20Cloud-052FAD?style=flat&logo=ibm&logoColor=white" /></a>
+<a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/Certificat%20de%20fin%20de%20formation%20_%20SkillsBuild.pdf"><img src="https://img.shields.io/badge/IBM-Fondamentaux%20de%20la%20cybers%C3%A9curit%C3%A9-052FAD?style=flat&logo=ibm&logoColor=white" /></a>
 </p>
 
 <br>
