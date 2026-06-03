@@ -1,50 +1,69 @@
 <!-- Profile README — édition 2026 -->
 
-<div align="center">
+<!-- BANNIÈRE ANIMÉE -->
+<a href="https://github.com/FredBourouliou">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Fr%C3%A9d%C3%A9ric%20Bourouliou&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ing%C3%A9nieur%20p%C3%A9dagogique%20%C2%B7%20Builder%20%C2%B7%20Dijon&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="" />
+</a>
+
+<!-- TAGLINE TYPING -->
+<p align="center">
+  <a href="https://github.com/FredBourouliou">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=7AA2F7&center=true&vCenter=true&multiline=false&width=720&height=40&lines=Je+con%C3%A7ois+des+dispositifs+de+formation+pilot%C3%A9s+par+IA.;Je+code+la+tuyauterie+qui+les+fait+tenir+en+production.;19+ans+d%27enseignement%2C+puis+du+code.;Claude+API+%C2%B7+Astro+%C2%B7+AWS+%C2%B7+Moodle" alt="Typing tagline" />
+  </a>
+</p>
+
+<!-- BADGES STATUT -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FredBourouliou&color=7aa2f7&style=flat-square&label=Vues+du+profil" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/FredBourouliou?style=flat-square&color=7aa2f7&label=Followers&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Statut-Ouvert%20aux%20collaborations-9ece6a?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Localisation-Dijon%2C%20FR-bb9af7?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
+<!-- CONTACT -->
+<p align="center">
+  <a href="mailto:bourouliou@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/frederic-bourouliou/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/FBourouliou"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
 <br>
 
-# Frédéric Bourouliou
-
-<sub>INGÉNIEUR PÉDAGOGIQUE · BUILDER · DIJON</sub>
-
-<br>
-
-<em>Je conçois des dispositifs de formation pilotés par IA,<br>
-et je code la tuyauterie qui les fait tenir en production.</em>
-
-<br><br>
-
-<a href="mailto:bourouliou@gmail.com">email</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/frederic-bourouliou/">linkedin</a> &nbsp;·&nbsp; <a href="https://x.com/FBourouliou">x</a>
+<!-- DIVIDER ANIMÉ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30&height=3&section=header&reversal=false" width="100%" alt="" />
 
 <br>
 
-</div>
-
----
-
-<br>
-
-## ▸ En production
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="22"></picture>&nbsp; En production
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/FredBourouliou/le-cobol">Le Cobol →</a>
+#### <a href="https://github.com/FredBourouliou/le-cobol">Le Cobol &nbsp;<img src="https://img.shields.io/badge/-live-9ece6a?style=flat-square" align="center" /></a>
 
 Application de facturation pour auto-entrepreneurs, écrite en **COBOL** (arithmétique décimale exacte depuis 1959), génération PDF en **PostScript**, frontend **HTMX** sans étape de build, stockage **ISAM** natif, déployée sur **AWS EC2** via Apache CGI.
 
-<sub><kbd>GnuCOBOL</kbd> &nbsp;<kbd>PostScript</kbd> &nbsp;<kbd>HTMX</kbd> &nbsp;<kbd>Apache CGI</kbd> &nbsp;<kbd>AWS</kbd></sub>
+<sub>
+<img src="https://img.shields.io/badge/COBOL-005CA5?style=flat&logo=cobol&logoColor=white" />
+<img src="https://img.shields.io/badge/HTMX-3D72D7?style=flat&logo=htmx&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### GIP Tracking <sub>· interne</sub>
+#### GIP Tracking &nbsp;<img src="https://img.shields.io/badge/-interne-bb9af7?style=flat-square" align="center" />
 
 Plugin **Moodle** PHP de suivi de formations pour le GIP FTLV de Franche-Comté. Pipeline de déploiement custom basé sur **Playwright** pour pousser CSS et JS sur les instances LMS de production.
 
-<sub><kbd>PHP</kbd> &nbsp;<kbd>Moodle API</kbd> &nbsp;<kbd>Playwright</kbd> &nbsp;<kbd>CSS</kbd></sub>
+<sub>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Moodle-FF7800?style=flat&logo=moodle&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+</sub>
 
 </td>
 </tr>
@@ -52,11 +71,107 @@ Plugin **Moodle** PHP de suivi de formations pour le GIP FTLV de Franche-Comté.
 
 <br>
 
----
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30&height=3&section=header" width="100%" alt="" />
 
 <br>
 
-## ▸ Projets publics
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png" width="22">&nbsp; Toolkit
+
+<table>
+<tr>
+<td valign="top">
+
+**Production stack**
+
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+
+**Enterprise**
+
+<img src="https://img.shields.io/badge/Microsoft%20Graph-742774?style=flat&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20OAuth2-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/SCORM%2FxAPI-005CA5?style=flat" />
+
+**AI tooling**
+
+<img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/MarkItDown-0078D4?style=flat&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Docling-006699?style=flat&logo=ibm&logoColor=white" />
+
+**Pédagogique**
+
+<img src="https://img.shields.io/badge/Moodle-FF7800?style=flat&logo=moodle&logoColor=white" />
+<img src="https://img.shields.io/badge/H5P-1c2d40?style=flat&logo=h5p&logoColor=fbb53b" />
+<img src="https://img.shields.io/badge/Adapt-002F87?style=flat" />
+<img src="https://img.shields.io/badge/Reveal.js-EA2027?style=flat" />
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30&height=3&section=header" width="100%" alt="" />
+
+<br>
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="22">&nbsp; Stats &nbsp;<sub><sub>(temps réel)</sub></sub>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FredBourouliou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=480" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBourouliou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FredBourouliou&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr" alt="Streak" />
+</p>
+
+#### Activity
+
+<a href="https://github.com/FredBourouliou">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FredBourouliou&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contributions%20sur%2031%20jours" alt="Activity graph" width="100%" />
+</a>
+
+#### Trophées
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=FredBourouliou&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true&margin-w=8" alt="Trophy" />
+  </a>
+</p>
+
+#### Le serpent dévore mes contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FredBourouliou/FredBourouliou/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FredBourouliou/FredBourouliou/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/FredBourouliou/FredBourouliou/output/github-snake.svg" alt="Snake animation des contributions" width="100%" />
+</picture>
+
+<br>
+
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30&height=3&section=header" width="100%" alt="" />
+
+<br>
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width="22">&nbsp; Projets publics
 
 <table>
 <tr>
@@ -66,7 +181,7 @@ Plugin **Moodle** PHP de suivi de formations pour le GIP FTLV de Franche-Comté.
 
 Plateforme de recherche et de visualisation cartographique de l'offre de formation professionnelle. Recherche multicritères, géolocalisation des organismes.
 
-<sub><kbd>PHP</kbd> &nbsp;<kbd>JavaScript</kbd> &nbsp;<kbd>Leaflet</kbd></sub>
+<sub><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white" /></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +190,7 @@ Plateforme de recherche et de visualisation cartographique de l'offre de formati
 
 Pipeline ETL de données cadastrales et de zonages d'urbanisme open data vers **PostgreSQL/PostGIS**. Requêtes spatiales simples côté SIG.
 
-<sub><kbd>Python</kbd> &nbsp;<kbd>GeoPandas</kbd> &nbsp;<kbd>PostGIS</kbd></sub>
+<sub><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white" /></sub>
 
 </td>
 </tr>
@@ -86,7 +201,7 @@ Pipeline ETL de données cadastrales et de zonages d'urbanisme open data vers **
 
 Démonstrateur d'automatisation Notion : structuration d'espaces, import CSV, génération de pages récurrentes.
 
-<sub><kbd>Python</kbd> &nbsp;<kbd>Notion API</kbd></sub>
+<sub><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -95,7 +210,7 @@ Démonstrateur d'automatisation Notion : structuration d'espaces, import CSV, g�
 
 App **React + TypeScript** explorant 1025+ Pokémon sur 9 générations — team builder, calculateur de dégâts, analytics.
 
-<sub><kbd>TypeScript</kbd> &nbsp;<kbd>React</kbd> &nbsp;<kbd>Vite</kbd></sub>
+<sub><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /></sub>
 
 </td>
 </tr>
@@ -103,58 +218,52 @@ App **React + TypeScript** explorant 1025+ Pokémon sur 9 générations — team
 
 <br>
 
----
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30&height=3&section=header" width="100%" alt="" />
 
 <br>
 
-## ▸ Toolkit
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ed.png" width="22">&nbsp; Parcours
 
-**Production stack** &nbsp; <sub><kbd>Astro</kbd> <kbd>Anthropic SDK</kbd> <kbd>Playwright</kbd> <kbd>AWS EC2</kbd> <kbd>Apache</kbd> <kbd>COBOL</kbd> <kbd>PostScript</kbd></sub>
-
-**Enterprise** &nbsp; <sub><kbd>Microsoft Graph</kbd> <kbd>Azure OAuth2</kbd> <kbd>SCORM</kbd> <kbd>xAPI</kbd></sub>
-
-**AI tooling** &nbsp; <sub><kbd>Claude API</kbd> (batch) <kbd>Whisper large-v3</kbd> <kbd>MarkItDown</kbd> <kbd>Docling</kbd></sub>
-
-**Pédagogique** &nbsp; <sub><kbd>Moodle</kbd> <kbd>H5P</kbd> (générateurs custom) <kbd>Adapt Framework</kbd> <kbd>Reveal.js</kbd></sub>
-
-**Languages** &nbsp; <sub><kbd>Python</kbd> <kbd>TypeScript</kbd> <kbd>Swift</kbd> <kbd>C</kbd> <kbd>SQL</kbd> <kbd>Bash</kbd></sub>
-
-<br>
-
----
-
-<br>
-
-## ▸ Parcours
-
-**19 ans dans l'Éducation nationale** comme professeur de Lettres modernes (académies de Montpellier, Reims, Dijon), puis bascule en 2024 vers le **développement logiciel** ([Holberton School](https://www.holbertonschool.fr/)) et l'**ingénierie pédagogique**.
+> **19 ans dans l'Éducation nationale** comme professeur de Lettres modernes (académies de Montpellier, Reims, Dijon), puis bascule en 2024 vers le **développement logiciel** ([Holberton School](https://www.holbertonschool.fr/)) et l'**ingénierie pédagogique**.
 
 Depuis fin 2025, **ingénieur pédagogique au GIP FTLV de Franche-Comté** — conception de formations Moodle, démarche Qualiopi, dispositifs immersifs XR/360°.
 
 En parallèle, je construis des **outils** : pipelines de génération de contenu pilotés par Claude API, automatisations Moodle via Playwright, plugins LMS, et un portfolio de sites web en production sur AWS.
 
-<br>
+#### Certifications
 
-**Certifications**
-
-<sub><a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/certificate-sql.pdf">IBM — SQL & Relational Databases 101</a> &nbsp;·&nbsp; <a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-agile.pdf">IBM — Agile Explorer</a> &nbsp;·&nbsp; <a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-oss.pdf">IBM — Introduction to Open Source</a></sub>
-
-<br>
-
----
+<p>
+<a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-2/certificate-sql.pdf"><img src="https://img.shields.io/badge/IBM-SQL%20%26%20Relational%20Databases%20101-052FAD?style=flat&logo=ibm&logoColor=white" /></a>
+<a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-agile.pdf"><img src="https://img.shields.io/badge/IBM-Agile%20Explorer-052FAD?style=flat&logo=ibm&logoColor=white" /></a>
+<a href="https://github.com/FredBourouliou/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-oss.pdf"><img src="https://img.shields.io/badge/IBM-Introduction%20to%20Open%20Source-052FAD?style=flat&logo=ibm&logoColor=white" /></a>
+</p>
 
 <br>
 
-## ▸ Au-delà du code
-
-Joueur de **Go** — pour la profondeur stratégique.<br>
-Apprenant permanent — livres, technologies, culture.<br>
-Transmission — 19 ans d'enseignement, c'est dans l'ADN.
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30&height=3&section=header" width="100%" alt="" />
 
 <br>
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" width="22">&nbsp; Au-delà du code
+
+- <img src="https://github.githubassets.com/images/icons/emoji/unicode/265f.png" width="14"> &nbsp;Joueur de **Go** — pour la profondeur stratégique
+- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" width="14"> &nbsp;Apprenant permanent — livres, technologies, culture
+- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" width="14"> &nbsp;Transmission — 19 ans d'enseignement, c'est dans l'ADN
+
+<br>
+
+<!-- QUOTE DYNAMIQUE -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day" />
+</p>
+
+<br>
+
+<!-- BANNIÈRE FOOTER ANIMÉE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=140&section=footer" width="100%" alt="" />
 
 <div align="center">
-
-<sub>Merci de votre visite — n'hésitez pas à me contacter.</sub>
-
+  <sub>Merci de votre visite — n'hésitez pas à me contacter.</sub>
 </div>
