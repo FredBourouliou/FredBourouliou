@@ -168,7 +168,7 @@ Plugin **Moodle** PHP de suivi de formations pour le GIP FTLV de Franche-Comté.
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/FredBourouliou/formation-search-portal-">Formation Search Portal →</a>
+#### <a href="https://github.com/FredBourouliou/formation-search-portal">Formation Search Portal →</a>
 
 Plateforme de recherche et de visualisation cartographique de l'offre de formation professionnelle. Recherche multicritères, géolocalisation des organismes.
 
