@@ -26,13 +26,12 @@ jobs:
           config_timezone: Europe/Paris
           config_order: base.header, isocalendar, languages, activity, community, repositories
           plugin_languages: yes
-          plugin_languages_ignored: html, css, makefile, scss, hcl, dockerfile, blade, vue
+          plugin_languages_ignored: makefile, scss, hcl, dockerfile, blade, vue
           plugin_languages_details: percentage
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 6
+          plugin_languages_indepth: no
+          plugin_languages_limit: 8
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_lines: yes
           plugin_topics: yes
           plugin_topics_mode: icons
           committer_branch: output
