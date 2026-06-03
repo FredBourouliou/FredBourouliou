@@ -205,6 +205,22 @@ App **React + TypeScript** explorant 1025+ Pokémon sur 9 générations — team
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/FredBourouliou/mini-soc-ioc-lab">Mini SOC IOC Lab →</a>
+
+Détection d'**indicateurs de compromission** (hashes, IPs, domaines) et application de **règles YARA** via scripts Python & PowerShell. Échantillons, logs, tests, rapports — fundamentals SOC & threat hunting.
+
+<sub><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/YARA-DC241F?style=flat" /></sub>
+
+</td>
+<td width="50%" valign="top">
+
+<sub><em>&mdash;&nbsp;à venir&nbsp;&mdash;</em></sub>
+
+</td>
+</tr>
 </table>
 
 <br>
