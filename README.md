@@ -1,10 +1,16 @@
 ### Hi, I'm Frédéric 👋
 
-I build learning tools and stubborn software — from 3D/AR training modules that run in a phone browser to an invoicing app written in COBOL.
+I build learning tools and stubborn software — from a tool that turns GIFs back into editable animations to an invoicing app written in COBOL.
 
 Literature teacher for 19 years, now instructional engineer and developer (Holberton School, software engineering). Based in Dijon, France.
 
 ---
+
+#### [Unbake](https://github.com/FredBourouliou/unbake) — turn a GIF back into editable animation · [try it ↗](https://fredbourouliou.github.io/unbake/)
+
+<a href="https://fredbourouliou.github.io/unbake/"><img src="screenshots/unbake.png" alt="Unbake editor: a bouncing ball reconstructed from a GIF, with its motion path" width="560"></a>
+
+Drop a motion-graphics GIF, get its shapes, motion paths and self-drawing strokes back; edit and export to Lottie or SVG. Computer vision in Python, running in the browser through WebAssembly. Built with pre-registered success criteria and held-out tests, documented failures included.
 
 #### [Le Cobol](https://github.com/FredBourouliou/le-cobol) — invoicing in COBOL, PDFs in PostScript, UI in HTMX
 
