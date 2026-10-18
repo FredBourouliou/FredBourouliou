@@ -28,4 +28,4 @@ SwiftUI app: OCR on printed pages, AI-assisted literary analysis, text-to-speech
 
 **Tools I use daily:** Python, TypeScript, Bash, Moodle, Playwright, Blender, Claude API.
 
-[Email](mailto:bourouliou@gmail.com) · [LinkedIn](https://www.linkedin.com/in/frederic-bourouliou/) · [X](https://x.com/FBourouliou)
+[Portfolio ↗](https://fredbourouliou.github.io/) · [Email](mailto:bourouliou@gmail.com) · [LinkedIn](https://www.linkedin.com/in/frederic-bourouliou/) · [X](https://x.com/FBourouliou)
