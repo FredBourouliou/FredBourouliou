@@ -30,7 +30,7 @@ SwiftUI app: OCR on printed pages, AI-assisted literary analysis, text-to-speech
 
 ---
 
-**Also:** [formation-search-portal](https://github.com/FredBourouliou/formation-search-portal) (map of vocational training offers, PHP + Leaflet) · [interactive-pokedex](https://github.com/FredBourouliou/interactive-pokedex) (React + TypeScript)
+**Also:** [formation-search-portal](https://github.com/FredBourouliou/formation-search-portal) (map of vocational training offers, PHP + Leaflet) · [geo-demo](https://github.com/FredBourouliou/geo-demo) (shapefiles into PostGIS, Python ETL) · [mini-soc-ioc-lab](https://github.com/FredBourouliou/mini-soc-ioc-lab) (IOC and YARA scanning)
 
 **Tools I use daily:** Python, TypeScript, Bash, Moodle, Playwright, Blender, Claude API.
 
